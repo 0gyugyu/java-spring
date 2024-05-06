@@ -1,0 +1,12 @@
+class MyPoint{
+	int x;
+	int y;
+}
+
+class Circle extends MyPoint {		//상속
+	int r;
+	
+}
+public class InteritanceTest {
+
+}
