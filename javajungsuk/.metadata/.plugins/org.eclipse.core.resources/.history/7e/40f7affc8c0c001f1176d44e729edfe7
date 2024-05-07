@@ -1,0 +1,19 @@
+class MyPoint3{
+	int x;
+	int y;
+	String getLocation() {
+		return "x:"+x+", y :"+y;
+	}
+}
+
+class MyPoint3D extends Point3{
+	
+}
+
+public class OverrideTest {
+
+	public static void main(String[] args) {
+
+	}
+
+}
