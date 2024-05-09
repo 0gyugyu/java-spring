@@ -5,4 +5,8 @@
     <fullyQualifiedTypeName name="MyPoint3D"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="MyPoint3"/>
+    <fullyQualifiedTypeName name="Parent"/>
+    <fullyQualifiedTypeName name="Child"/>
+    <fullyQualifiedTypeName name="Point"/>
+    <fullyQualifiedTypeName name="Point3D"/>
 </qualifiedTypeNameHistroy>
