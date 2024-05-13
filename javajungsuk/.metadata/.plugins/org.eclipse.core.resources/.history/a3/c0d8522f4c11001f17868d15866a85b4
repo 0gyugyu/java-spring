@@ -1,0 +1,14 @@
+
+class Time{
+	int hour;
+	int minute;
+	int secont;
+}
+public class TimeTest {
+	public static void main(String[] args) {
+		Time t = new Time();
+		t.hour = 25;
+		System.out.println(t.hour);
+	}
+
+}

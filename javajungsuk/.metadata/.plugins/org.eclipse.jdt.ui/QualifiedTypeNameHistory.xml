@@ -9,4 +9,6 @@
     <fullyQualifiedTypeName name="Child"/>
     <fullyQualifiedTypeName name="Point"/>
     <fullyQualifiedTypeName name="Point3D"/>
+    <fullyQualifiedTypeName name="pkg1.MyParent"/>
+    <fullyQualifiedTypeName name="Time"/>
 </qualifiedTypeNameHistroy>

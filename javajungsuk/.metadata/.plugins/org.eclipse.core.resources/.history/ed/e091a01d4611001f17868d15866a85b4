@@ -1,0 +1,9 @@
+package pkg2;
+
+public class MyParentTest2 {
+
+	public static void main(String[] args) {
+
+	}
+
+}
