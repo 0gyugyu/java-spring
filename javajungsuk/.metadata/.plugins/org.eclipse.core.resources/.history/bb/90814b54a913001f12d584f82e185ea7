@@ -1,0 +1,24 @@
+
+public class Ex7_7 {
+
+	public static void main(String[] args) {
+		Car car = null;
+		FireEngine fe = new FireEngine();
+		FireEngine fe 2 = null;
+		
+	}
+
+}
+
+class Car{
+	String color;
+	int door;
+	
+	void drive() {
+		System.out.println("drive, Brrrrrrrrrrrr~");
+	}
+	
+	void stop() {
+		System.out.println("stop!!!!!!!!!!!!!");
+	}
+}
