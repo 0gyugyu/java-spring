@@ -22,7 +22,6 @@ public class Ex7_7 {
 	 * FireEngine fe2 = (FireEngine)Car; null 	 // 조상 -> 자손으로 형변환
 	 * Car car2 = (Car)fe2; null				 // 자손 -> 조상으로 형변환
 	 * car.drive(); //NullPointerException 발생.
-	 * 에러가 날지 안 날지는 객체(인스턴스)가 결정하게 된다..
 	 * */
 
 }
